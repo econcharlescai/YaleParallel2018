@@ -40,8 +40,8 @@ smaller exercises as well as larger projects.
 -----|------|------
 08.31.2018 | 08:00 - 12:00 | Introduction to HPC
 09.07.2018 | 08:00 - 12:00 | Introduction to OpenMP
--.-.2018 | 08:00 - 12:00 | Introduction to MPI
--.-.2018 | 08:00 - 12:00 | Introduction to Hybrid parallelism
+--.-..2018 | 08:00 - 12:00 | Introduction to MPI
+--.--.2018   | 08:00 - 12:00 | Introduction to Hybrid parallelism
 
 
 
