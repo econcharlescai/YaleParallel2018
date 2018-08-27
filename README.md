@@ -33,15 +33,15 @@ with the results from numerical applications.
 A key part of the course is devoted to hands-on labs based on 
 smaller exercises as well as larger projects. 
 ### Lecturer
-* [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) (HEC University of Lausanne)
+* [Simon Scheidegger](https://sites.google.com/site/simonscheidegger/) (HEC, University of Lausanne)
 
 
 **Date** | **Time** | **Main Topics** 
 -----|------|------
-08.31.2018 | 08:00 - 12:00 | Introduction to HPC
-09.07.2018 | 08:00 - 12:00 | Introduction to OpenMP
---.-..2018 | 08:00 - 12:00 | Introduction to MPI
---.--.2018   | 08:00 - 12:00 | Introduction to Hybrid parallelism
+08.30.2018 | 1:30 - 3:00 pm | Introduction to HPC
+09.06.2018 | 1:30 - 3:00 pm | Introduction to OpenMP
+09.17.2018 | 4:00 - 5:30 pm | Introduction to MPI
+09.24.2018 | 4:00 - 5:30 pm | Introduction to Hybrid parallelism and more advanced topics
 
 
 
