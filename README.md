@@ -4,7 +4,10 @@ This is a introductory course on parallel programming, held at the
 Cowles Foundation at Yale in August/September 2018.
 
 
-**Prerequisites:** Students should have prior knowledge in a programming language (a low-leve language such as C++, C, Fortran would be beneficial, but is not required). Moreover, there should be interest in accessing parallel compute resources due to research projects that require non-trivial numerical methods. Students are encouraged to bring their own research projects to be discussed.  
+**Prerequisites:** Students should have prior knowledge in a programming language 
+(a low-level language such as C++, C, Fortran would be beneficial, but is not required). 
+Moreover, there should be interest in accessing parallel compute resources due to 
+research projects that require non-trivial numerical methods. Students are encouraged to bring their own research projects to be discussed.  
 
 ### Purpose of the lecture
 
