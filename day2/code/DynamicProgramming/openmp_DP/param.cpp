@@ -24,7 +24,7 @@ double kmin = 0.85; //minimum capital
 double kmax = 1.15; //max. capital
 
 // Choose nk, the number of capital stocks, and kappa, the discretization level
-int nk  =  4000;
+int nk  =  2000;
 double kappa  =  (kmax-kmin)/(nk-1.0);
 
 // Number of theta states and the minimum and maximum theta values
@@ -38,7 +38,7 @@ ArrayXd thetagrid=fill_thetagrid();
 
 // Number of Iterations
 int numstart = 0; // start iterating at this timestep
-int Numits = 3;   // stop  iterating at this timestep
+int Numits = 10;   // stop  iterating at this timestep
 
 // Maximum difference between succesive Value Function Iterates (initialized to 0)
 double errmax = 0;
